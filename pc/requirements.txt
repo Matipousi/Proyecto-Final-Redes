@@ -1,0 +1,7 @@
+# Unica dependencia, y solo para usar la webcam real.
+# Con --fuente sintetica el programa corre con la stdlib pelada.
+#
+#   pip install -r requirements.txt
+#
+# Si pip falla en Windows, probar:  py -m pip install -r requirements.txt
+opencv-python>=4.5

@@ -1,0 +1,11 @@
+.pio/
+.vscode/
+# Lo genera PlatformIO al convertir el .ino y normalmente lo borra al terminar.
+# Si un build se corta a la mitad puede quedar colgado: ver README.
+*.ino.cpp
+__pycache__/
+*.pyc
+.venv/
+
+# Credenciales del WiFi de cada maquina
+config_local.h
