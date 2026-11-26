@@ -59,7 +59,7 @@
 // -----------------------------------------------------------------------------
 // 3. BROKER MQTT  (solo MODE_MQTT)
 // -----------------------------------------------------------------------------
-#define MQTT_BROKER_IP  "192.168.4.58"   // IP del Mosquitto en la LAN
+#define MQTT_BROKER_IP  "192.168.4.73"   // IP del Mosquitto en la LAN
 #define MQTT_PORT       1883              // texto plano: es el punto del trabajo
 #define MQTT_CLIENT_ID  "xiao-cam"
 
